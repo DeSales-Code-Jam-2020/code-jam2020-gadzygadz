@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Big Test",
+      "setup": "",
+      "run": "python3 test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
